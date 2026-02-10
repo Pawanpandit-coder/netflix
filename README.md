@@ -1,1 +1,1 @@
-This is clone of netflix website build using html, css and js.
+This is a simple clone of the Netflix website built using HTML, CSS and JavaScript.
